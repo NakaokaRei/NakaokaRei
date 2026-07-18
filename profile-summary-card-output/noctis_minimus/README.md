@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/NakaokaRei/NakaokaRei/main/profile-summary-card-output/noctis_minimus/2-most-commit-language.svg)
-```
-
-    

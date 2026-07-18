@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/NakaokaRei/NakaokaRei/main/profile-summary-card-output/2077/2-most-commit-language.svg)
-```
-
-    
